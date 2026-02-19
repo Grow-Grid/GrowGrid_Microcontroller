@@ -1,6 +1,9 @@
 # WiFi configuration with credentials
 Sketch/wifi_config.h
 
+# PlatformIO build artifacts
+.pio/
+
 # Arduino build files
 *.hex
 *.elf
