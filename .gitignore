@@ -1,0 +1,14 @@
+# WiFi configuration with credentials
+Sketch/wifi_config.h
+
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# IDE files
+.vscode/
+.arduino/
+*.swp
+*.swo
+*~
